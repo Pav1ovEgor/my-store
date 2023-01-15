@@ -2,7 +2,7 @@
 function App() {
   return (
     <div>
-     Привет
+     Привет!!!
     </div>
   );
 }
